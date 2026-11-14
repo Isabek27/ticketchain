@@ -5,7 +5,7 @@ Educational project for the course Introduction to Finance. Not a real product, 
 Local EVM smart-contract prototype for verifiable event ticket issuance, controlled transfers, and atomic single-use entry verification.
 
 ## Demo Video
-- Video link: `[PASTE_GOOGLE_DRIVE_LINK_HERE]`
+- Video link: `https://youtu.be/-zQ0C3EmQ4s?si=iroJXsCQPspDTL6E`
 
 ## Contract Architecture
 - **Platform design:** EVM-compatible smart contract built with Solidity `0.8.24` and OpenZeppelin (`AccessControl`, `ReentrancyGuard`).
